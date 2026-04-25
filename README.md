@@ -9,7 +9,7 @@ A decentralized crowdfunding platform built on the Stellar network with multi-wa
 
 **Live Application**: [Stellar Crowdfund on Render](https://stellar-yellowbelt.onrender.com) ✅ **LIVE**
 
-**GitHub Repository**: 
+**GitHub Repository**: https://github.com/krit-k7/StellarXyellow-Belt
 
 ## Features
 
