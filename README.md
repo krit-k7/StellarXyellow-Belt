@@ -1,4 +1,4 @@
-# Stellar Crowdfund - Yellow Belt Submission
+# Crowdfund - StellarXyellow-Belt
 
 A decentralized crowdfunding platform built on the Stellar network with multi-wallet integration, smart contract deployment, and real-time event handling.
 
